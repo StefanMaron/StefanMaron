@@ -44,11 +44,12 @@ cd MsDyn365Bc.On.Linux && docker compose up -d --wait
 ```
 
 ### [BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-> AL unit tests in **milliseconds** — no BC service tier, no Docker, no SQL Server. Transpiles your AL to C# via the BC compiler's public API, rewrites BC runtime types to in-memory mocks with Roslyn, and executes test codeunits directly.
+> Run AL unit tests without a BC service tier, Docker, or SQL Server. Transpiles your AL to C# via the BC compiler's public API, rewrites BC runtime types to in-memory mocks with Roslyn, and executes test codeunits directly — once dependencies are downloaded and the app is compiled, each test run itself takes milliseconds.
 
 ```bash
 dotnet tool install --global MSDyn365BC.AL.Runner
-al-runner ./src ./test   # runs in < 1 second
+al-runner ./src ./test
+# first run downloads dependencies and compiles — later runs are near-instant
 ```
 
 ```
