@@ -4,6 +4,11 @@
 
 I push BC into places Microsoft didn't design it to go — Linux, in-memory test execution, and fast CI pipelines.
 
+[![Website](https://img.shields.io/badge/stefanmaron.com-blog-0078d4)](https://stefanmaron.com)
+[![X](https://img.shields.io/badge/X-%40StefanMaron-000000?logo=x&logoColor=white)](https://x.com/StefanMaron)
+[![Bluesky](https://img.shields.io/badge/Bluesky-follow-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/stefanmaron.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-maron-709928206/)
+
 ---
 
 ## 🚀 Cutting-edge projects
@@ -38,9 +43,9 @@ Pull Request
 
 | Project | What it does | Stars |
 |---|---|---|
-| [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) | Full BC source history, updated monthly — diff any version | ⭐ 471 |
-| [BusinessCentral.LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop) | Community-driven AL linter — catch issues before they ship | ⭐ 108 |
-| [BusinessCentral.Sentinel](https://github.com/StefanMaron/BusinessCentral.Sentinel) | Security & quality scanner for BC extensions | ⭐ 23 |
+| [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) | Full BC source history, updated monthly — diff any version | ![Stars](https://img.shields.io/github/stars/StefanMaron/MSDyn365BC.Code.History?style=social) |
+| [BusinessCentral.LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop) | Community-driven AL linter — catch issues before they ship | ![Stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.LinterCop?style=social) |
+| [BusinessCentral.Sentinel](https://github.com/StefanMaron/BusinessCentral.Sentinel) | Security & quality scanner for BC extensions | ![Stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.Sentinel?style=social) |
 
 ---
 
@@ -54,6 +59,38 @@ Pull Request
 
 ---
 
+## 📈 Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
+
+<!-- blog:START -->
+<!-- blog:END -->
+
+<details>
+<summary>📊 <b>GitHub stats</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanMaron&theme=github_dark">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanMaron&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StefanMaron&theme=github_dark">
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StefanMaron&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StefanMaron&theme=github_dark">
+  <img alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StefanMaron&theme=default">
+</picture>
+
+</details>
+
+---
+
 ## 📬 Find me
 
 - 🌐 [stefanmaron.com](https://stefanmaron.com)
@@ -64,3 +101,9 @@ Pull Request
 ---
 
 *If you're doing BC development and want faster feedback loops or a Linux-native stack — you're in the right place.*
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=StefanMaron&label=Profile%20views&color=0078d4&style=flat)
+
+</div>
