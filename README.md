@@ -108,6 +108,14 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/JeremyVyska/navapi/pull/8#issuecomment-5420537814) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+2. 🗣 Commented on [#2008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2008#issuecomment-5420425782) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. 🗣 Commented on [#2021](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2021#issuecomment-5420423998) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+4. ❌ Closed PR [#2021](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2021) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. 🎉 Merged PR [#2035](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2035) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+6. 🔒 Closed issue [#2027](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2027) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+7. 🎉 Merged PR [#2032](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2032) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+8. 🔒 Closed issue [#2031](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2031) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
