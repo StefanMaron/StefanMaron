@@ -59,15 +59,17 @@ Pull Request
   └─ Full BC pipeline   (45+ min)  — full fidelity, only when needed
 ```
 
+### [bc-code-atlas](https://github.com/StefanMaron/bc-code-atlas)
+> A queryable window into BC's AL source and official docs — semantic search, a structural call graph, and dependency lookups behind one MCP endpoint. Point a coding agent at it and ask where BC validates a sales order before posting, or what subscribes to a given event, and get an answer grounded in Microsoft's actual base-application source, not a guess from training data.
+
 ---
 
 ## 🔧 More tools
 
 | Project | What it does | Stars |
 |---|---|---|
-| [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) | Full BC source history, updated monthly — diff any version | ![Stars](https://img.shields.io/github/stars/StefanMaron/MSDyn365BC.Code.History?style=social) |
-| [BusinessCentral.LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop) | Community-driven AL linter — catch issues before they ship | ![Stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.LinterCop?style=social) |
-| [BusinessCentral.Sentinel](https://github.com/StefanMaron/BusinessCentral.Sentinel) | Security & quality scanner for BC extensions | ![Stars](https://img.shields.io/github/stars/StefanMaron/BusinessCentral.Sentinel?style=social) |
+| [MSDyn365BC.Sandbox.Code.History](https://github.com/StefanMaron/MSDyn365BC.Sandbox.Code.History) | Builds on sandbox artifacts instead of on-prem, so it picks up hotfixes and updates daily | ![Stars](https://img.shields.io/github/stars/StefanMaron/MSDyn365BC.Sandbox.Code.History?style=social) |
+| [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) | The original on-prem source history, updated monthly | ![Stars](https://img.shields.io/github/stars/StefanMaron/MSDyn365BC.Code.History?style=social) |
 
 ---
 
