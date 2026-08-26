@@ -121,6 +121,13 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
 
 <!-- blog:START -->
+- [AL Runner v2.2 and v2.3: Coverage, Quick Scripts, and a Watch Mode You Can Trust](https://stefanmaron.com/posts/al-runner-coverage-execute-and-a-guard-that-worked/)
+
+- [I Can Turn Off My Code. I Can&#39;t Turn Off Yours.](https://stefanmaron.com/posts/modify-deserves-the-same-rule-as-validate/)
+
+- [Weekly Recap: August 7-14](https://stefanmaron.com/posts/weekly-recap-2026-08-14/)
+
+- [AL Runner v2: What Feedback Told Me v1 Was Missing](https://stefanmaron.com/posts/al-runner-v2-emit-through-bc/)
 <!-- blog:END -->
 
 ### 🎥 Latest from my [live-coding channel](https://www.youtube.com/@stefanmaron)
