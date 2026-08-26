@@ -1,8 +1,19 @@
 # Hey, I'm Stefan 👋
 
-**Independent Microsoft Dynamics 365 Business Central Developer · Microsoft MVP**
+```bash
+$ whoami
+Stefan Maroń — Independent Business Central Developer · Microsoft MVP
 
-I've been building on BC and NAV since 2016, starting back in the C/AL days — before that I trained in accounting and business organization, which is why I still think in posting flows and cost centers before I think in code. I went independent in 2022, and Microsoft named me an MVP for Business Central in 2024. Daily driver has been Linux since early 2023, which is part of why I keep pushing BC into places it wasn't designed to run.
+$ history | tail -3
+2016  started on NAV, back in the C/AL era
+2022  went independent
+2024  named Microsoft MVP for Business Central
+
+$ ls credentials/
+LinterCop.al  BCQF.md  linux-since-2023.log
+```
+
+Before the code, I trained in accounting and business organization — that's part of why I still think in posting flows and cost centers before I think in code, and part of why I keep pushing BC into places Microsoft didn't design it to run.
 
 [![Website](https://img.shields.io/badge/stefanmaron.com-blog-0078d4)](https://stefanmaron.com)
 [![Consulting](https://img.shields.io/badge/stefanmaronconsulting.com-services-2ea44f)](https://stefanmaronconsulting.com)
@@ -10,6 +21,14 @@ I've been building on BC and NAV since 2016, starting back in the C/AL days — 
 [![Bluesky](https://img.shields.io/badge/Bluesky-follow-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/stefanmaron.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-maron-709928206/)
 [![YouTube](https://img.shields.io/badge/YouTube-live_coding-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@stefanmaron)
+
+---
+
+## 🔭 Currently
+
+- 🔨 **Building** — test coverage and a watch mode for [AL Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner) (v2.3), and tightening up the BCQF methodology behind my code reviews
+- 🌱 **Exploring** — grounding AI coding agents in real BC source with [bc-code-atlas](https://github.com/StefanMaron/bc-code-atlas), an MCP server for AL dependency and implementation lookups
+- 💬 **Ask me about** — running BC on Linux, fast AL test pipelines, or static analysis for AL
 
 ---
 
@@ -124,8 +143,4 @@ I also wrote the [Business Central Quality Framework](https://stefanmaronconsult
 
 *If you're doing BC development and want faster feedback loops or a Linux-native stack — you're in the right place.*
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=StefanMaron&label=Profile%20views&color=0078d4&style=flat)
-
-</div>
