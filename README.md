@@ -100,6 +100,9 @@ I also wrote the [Business Central Quality Framework](https://stefanmaronconsult
 Public GitHub activity — my own repos and contributions to others, refreshed daily. Commit counts run through a lot of AI-assisted sessions these days, so treat them as an activity signal, not a productivity one.
 
 <!-- stats:START -->
+| Commits (public) | PRs opened | PRs merged | Issues opened | Stars earned |
+|---|---|---|---|---|
+| 3095 | 713 | 673 | 833 | 905 |
 <!-- stats:END -->
 
 ### 🕒 Recent activity
