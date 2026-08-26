@@ -33,3 +33,12 @@ jobs:
           max_post_count: 4
           commit_message: "Update blog posts"
           template: "$newline- [$title]($url)$newline"
+
+      - name: Update YouTube Videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "youtube"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsP1S8tZ1qZX8PJTubGIDVQ"
+          max_post_count: 2
+          commit_message: "Update YouTube videos"
+          template: "$newline- [$title]($url)$newline"

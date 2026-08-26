@@ -1,13 +1,15 @@
 # Hey, I'm Stefan 👋
 
-**Microsoft Dynamics 365 Business Central Developer · Microsoft MVP · Freelance**
+**Independent Microsoft Dynamics 365 Business Central Developer · Microsoft MVP**
 
-I push BC into places Microsoft didn't design it to go — Linux, in-memory test execution, and fast CI pipelines.
+I've been building on BC and NAV since 2016, starting back in the C/AL days — before that I trained in accounting and business organization, which is why I still think in posting flows and cost centers before I think in code. I went independent in 2022, and Microsoft named me an MVP for Business Central in 2024. Daily driver has been Linux since early 2023, which is part of why I keep pushing BC into places it wasn't designed to run.
 
 [![Website](https://img.shields.io/badge/stefanmaron.com-blog-0078d4)](https://stefanmaron.com)
+[![Consulting](https://img.shields.io/badge/stefanmaronconsulting.com-services-2ea44f)](https://stefanmaronconsulting.com)
 [![X](https://img.shields.io/badge/X-%40StefanMaron-000000?logo=x&logoColor=white)](https://x.com/StefanMaron)
 [![Bluesky](https://img.shields.io/badge/Bluesky-follow-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/stefanmaron.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-maron-709928206/)
+[![YouTube](https://img.shields.io/badge/YouTube-live_coding-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@stefanmaron)
 
 ---
 
@@ -49,6 +51,19 @@ Pull Request
 
 ---
 
+## 💼 Work with me
+
+I do independent Business Central consulting for BC partners and ISVs across Europe — see [stefanmaronconsulting.com](https://stefanmaronconsulting.com) for details.
+
+- **Extension code review** — 5–10 days, with an optional compliance report against ISO/IEC 5055
+- **Custom AL development & third-party integrations** — banking, e-commerce, field service, business automation — project or retainer, EU-wide
+- **Developer training** — AL fundamentals, upgrade-safe patterns, AI-assisted workflows — half-day or full-day, for teams of 2–10
+- **DevOps & tooling** — GitHub Actions / AL-Go setup, static analysis wired into CI as a quality gate
+
+I also wrote the [Business Central Quality Framework](https://stefanmaronconsulting.com/iso-5055-business-central/#bcqf) (BCQF), a versioned extension of ISO/IEC 5055:2021 for AL and Business Central, and I'm the original author of [LinterCop](https://github.com/StefanMaron/BusinessCentral.LinterCop), the first community-driven AL static analyzer (now part of the broader ALCops initiative).
+
+---
+
 ## 🛠 Stack
 
 ![AL](https://img.shields.io/badge/AL-Business_Central-0078d4?style=flat-square)
@@ -68,6 +83,11 @@ Pull Request
 
 <!-- blog:START -->
 <!-- blog:END -->
+
+### 🎥 Latest from my [live-coding channel](https://www.youtube.com/@stefanmaron)
+
+<!-- youtube:START -->
+<!-- youtube:END -->
 
 <details>
 <summary>📊 <b>GitHub stats</b></summary>
@@ -93,10 +113,12 @@ Pull Request
 
 ## 📬 Find me
 
-- 🌐 [stefanmaron.com](https://stefanmaron.com)
+- 🌐 [stefanmaron.com](https://stefanmaron.com) — blog
+- 🧰 [stefanmaronconsulting.com](https://stefanmaronconsulting.com) — consulting services
 - 🐦 [@StefanMaron](https://x.com/StefanMaron) on X
 - 🦋 [@stefanmaron.com](https://bsky.app/profile/stefanmaron.com) on Bluesky
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefan-maron-709928206/)
+- 🎥 [YouTube](https://www.youtube.com/@stefanmaron) — irregular live-coding streams
 
 ---
 
