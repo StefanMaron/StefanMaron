@@ -105,7 +105,7 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 <!-- stats:START -->
 | Commits (public) | PRs opened | PRs merged | Issues opened | Stars earned |
 |---|---|---|---|---|
-| 3107 | 723 | 682 | 853 | 905 |
+| 3132 | 749 | 703 | 874 | 906 |
 <!-- stats:END -->
 
 ### 🕒 Recent activity
