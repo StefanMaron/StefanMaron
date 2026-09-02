@@ -124,13 +124,13 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
 
 <!-- blog:START -->
-- [AL Runner v2.2 and v2.3: Coverage, Quick Scripts, and a Watch Mode You Can Trust](https://stefanmaron.com/posts/al-runner-coverage-execute-and-a-guard-that-worked/)
+- [AL Runner: Testing Against Real Cronus Data, Debugging Restored, and Mutation-Ready Coverage](https://stefanmaron.com/posts/al-runner-tests-against-cronus/)
 
-- [I Can Turn Off My Code. I Can&#39;t Turn Off Yours.](https://stefanmaron.com/posts/modify-deserves-the-same-rule-as-validate/)
+- [Introducing bcdb: Read a Business Central Backup Without SQL Server](https://stefanmaron.com/posts/bcdb-read-business-central-backups-without-sql-server/)
 
-- [Weekly Recap: August 7-14](https://stefanmaron.com/posts/weekly-recap-2026-08-14/)
+- [Weekly Recap: August 21-28](https://stefanmaron.com/posts/weekly-recap-2026-08-28/)
 
-- [AL Runner v2: What Feedback Told Me v1 Was Missing](https://stefanmaron.com/posts/al-runner-v2-emit-through-bc/)
+- [Weekly Recap: August 14-21](https://stefanmaron.com/posts/weekly-recap-2026-08-21/)
 <!-- blog:END -->
 
 ### 🎥 Latest from my [live-coding channel](https://www.youtube.com/@stefanmaron)
