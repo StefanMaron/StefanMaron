@@ -111,14 +111,14 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/StefanMaron/BusinessCentral.BakReader/issues/17#issuecomment-5482877107) in [StefanMaron/BusinessCentral.BakReader](https://github.com/StefanMaron/BusinessCentral.BakReader)
-2. 🔒 Closed issue [#2268](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2268) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-3. 🔒 Closed issue [#2270](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2270) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-4. 🎉 Merged PR [#2275](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2275) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-5. 🗣 Commented on [#2259](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2259#issuecomment-5483134904) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-6. ❗ Opened issue [#2268](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2268) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-7. ℹ️ Labeled PR [#2275](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2275) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-8. 💪 Opened PR [#2275](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2275) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+1. 💪 Opened PR [#83](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/pull/83) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+2. ❗ Opened issue [#2311](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2311) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. ℹ️ Assigned issue [#2305](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2305) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+4. ℹ️ Assigned issue [#2306](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2306) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. ℹ️ Assigned issue [#2304](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2304) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+6. ℹ️ Assigned issue [#2303](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2303) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+7. ℹ️ Assigned issue [#2301](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2301) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+8. ℹ️ Assigned issue [#2309](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2309) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
