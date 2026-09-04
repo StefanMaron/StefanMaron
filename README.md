@@ -124,13 +124,13 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
 
 <!-- blog:START -->
+- [AL Language Tests: An Executable Spec for How BC Actually Behaves](https://stefanmaron.com/posts/al-language-tests-executable-spec/)
+
 - [AL Runner: Testing Against Real Cronus Data, Debugging Restored, and Mutation-Ready Coverage](https://stefanmaron.com/posts/al-runner-tests-against-cronus/)
 
 - [Introducing bcdb: Read a Business Central Backup Without SQL Server](https://stefanmaron.com/posts/bcdb-read-business-central-backups-without-sql-server/)
 
 - [Weekly Recap: August 21-28](https://stefanmaron.com/posts/weekly-recap-2026-08-28/)
-
-- [Weekly Recap: August 14-21](https://stefanmaron.com/posts/weekly-recap-2026-08-21/)
 <!-- blog:END -->
 
 ### 🎥 Latest from my [live-coding channel](https://www.youtube.com/@stefanmaron)
