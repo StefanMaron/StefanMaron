@@ -111,14 +111,14 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/2944#issuecomment-5555844886) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-2. ❗ Opened issue [#3003](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3003) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-3. ❗ Opened issue [#3002](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3002) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-4. ℹ️ Assigned issue [#2966](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2966) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-5. ℹ️ Labeled issue [#2966](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2966) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-6. ℹ️ Labeled issue [#2966](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/2966) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-7. ℹ️ Labeled PR [#3001](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3001) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-8. ℹ️ Labeled PR [#3001](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3001) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+1. 🗣 Commented on [#3286](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3286#issuecomment-5563476932) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+2. 🗣 Commented on [#3286](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3286#issuecomment-5563454821) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. ℹ️ Labeled PR [#3303](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3303) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+4. ℹ️ Labeled PR [#3303](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3303) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. 💪 Opened PR [#3303](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3303) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+6. 🗣 Commented on [#3254](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3254#issuecomment-5563418102) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+7. ❗ Opened issue [#3302](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/3302) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+8. ℹ️ Labeled PR [#3301](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/3301) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
