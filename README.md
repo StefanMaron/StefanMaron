@@ -111,14 +111,14 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#283](https://github.com/StefanMaron/al-runtime-rs/pull/283) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
-2. ❗ Opened issue [#658](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/658) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
-3. 💪 Opened PR [#286](https://github.com/StefanMaron/al-runtime-rs/pull/286) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
-4. 🎉 Merged PR [#285](https://github.com/StefanMaron/al-runtime-rs/pull/285) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
-5. ❗ Opened issue [#657](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/657) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
-6. 💪 Opened PR [#285](https://github.com/StefanMaron/al-runtime-rs/pull/285) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
-7. 🎉 Merged PR [#284](https://github.com/StefanMaron/al-runtime-rs/pull/284) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
-8. ❗ Opened issue [#656](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/656) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+1. 💪 Opened PR [#332](https://github.com/StefanMaron/al-runtime-rs/pull/332) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
+2. 🎉 Merged PR [#331](https://github.com/StefanMaron/al-runtime-rs/pull/331) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
+3. 💪 Opened PR [#331](https://github.com/StefanMaron/al-runtime-rs/pull/331) in [StefanMaron/al-runtime-rs](https://github.com/StefanMaron/al-runtime-rs)
+4. 🗣 Commented on [#659](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/659#issuecomment-6276274674) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+5. 🗣 Commented on [#653](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/653#issuecomment-6276274203) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+6. 🗣 Commented on [#646](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/646#issuecomment-6276273722) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+7. 🗣 Commented on [#649](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/649#issuecomment-6276268502) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
+8. 🗣 Commented on [#282](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests/issues/282#issuecomment-6276262466) in [StefanMaron/BusinessCentral.AL.Language.Tests](https://github.com/StefanMaron/BusinessCentral.AL.Language.Tests)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
