@@ -111,14 +111,14 @@ Public GitHub activity — my own repos and contributions to others, refreshed d
 ### 🕒 Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#8678](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8678) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-2. ❌ Closed PR [#8678](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8678) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-3. 💪 Opened PR [#8678](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8678) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-4. 🗣 Commented on [#8668](https://github.com/aldevtools/BusinessCentral.AL.Runner/issues/8668#issuecomment-7074536672) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-5. 💪 Opened PR [#1508](https://github.com/aldevtools/BusinessCentral.AL.Language.Tests/pull/1508) in [aldevtools/BusinessCentral.AL.Language.Tests](https://github.com/aldevtools/BusinessCentral.AL.Language.Tests)
-6. ℹ️ Labeled issue [#8677](https://github.com/aldevtools/BusinessCentral.AL.Runner/issues/8677) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-7. ℹ️ Labeled issue [#8677](https://github.com/aldevtools/BusinessCentral.AL.Runner/issues/8677) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
-8. ℹ️ Labeled issue [#8673](https://github.com/aldevtools/BusinessCentral.AL.Runner/issues/8673) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+1. 🗣 Commented on [#8824](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8824#issuecomment-7093143038) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+2. ℹ️ Labeled PR [#8852](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8852) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+3. ℹ️ Labeled PR [#8831](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8831) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+4. ℹ️ Labeled PR [#8682](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8682) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+5. 🗣 Commented on [#8841](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8841#issuecomment-7092958633) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+6. 🗣 Commented on [#8837](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8837#issuecomment-7092958254) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+7. 🗣 Commented on [#8831](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8831#issuecomment-7092957920) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
+8. 🗣 Commented on [#8682](https://github.com/aldevtools/BusinessCentral.AL.Runner/pull/8682#issuecomment-7092957602) in [aldevtools/BusinessCentral.AL.Runner](https://github.com/aldevtools/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest posts from [stefanmaron.com](https://stefanmaron.com)
